@@ -13,7 +13,7 @@
 ## Установка из git
 Опция `--bare` создаёт "пустой" репозиторий, без возможности обновлять и отслеживать ветки, без папки .git, только копия актуального состояния.
     
-    git clone --bare <url> ~/.config/tmux
+    git clone --bare https://github.com/Draniev/tmux_config.git ~/.config/tmux
 
 ## Инициализация
 При первом включении выполнить команду leader + ':'
